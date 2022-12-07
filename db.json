@@ -22,20 +22,7 @@
       "password": "123456789",
       "email": "ngocvy1997@gmail.com",
       "sdt": "0999639643",
-      "tasks": [
-        {
-          "id": "zSemN",
-          "customer_id": 4,
-          "fullname": "Nguyễn Văn Sơn",
-          "email": "example8@gmail.com",
-          "sdt": "0908876899",
-          "map": "https://goo.gl/maps/aYMdGEJuRWivY1ph8",
-          "address": "180 Đ. Cao Lỗ, Phường 4, Quận 8, Thành phố Hồ Chí Minh",
-          "order": "1 bình gas cho bếp từ",
-          "note": "Nhanh lên, gấp lắm rồi",
-          "completed": false
-        }
-      ]
+      "tasks": []
     },
     {
       "id": 5,
